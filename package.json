@@ -1,0 +1,29 @@
+{
+  "name": "trabalho-quimica",
+  "version": "1.0.0",
+  "description": "Trabalho de Química do terceiro trimestre do 4o ano de Desenvolvimento de Sistemas do IFRS Campus Canoas para demonstrar cinética química",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "test": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://ghp_JN9ZjReq5o1ffsg5nwO5OezUK7h1Kx2NVOcl@github.com/Arthurgroll997/trabalho-quimica.git"
+  },
+  "keywords": [
+    "quimica",
+    "cinetica"
+  ],
+  "author": "Arthur Von Groll",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Arthurgroll997/trabalho-quimica/issues"
+  },
+  "homepage": "https://github.com/Arthurgroll997/trabalho-quimica#readme",
+  "dependencies": {
+    "pixijs": "^7.0.4",
+    "vite": "^3.2.4",
+    "vitest": "^0.25.3"
+  }
+}
